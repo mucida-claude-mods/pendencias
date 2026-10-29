@@ -1,0 +1,16 @@
+{
+  "name": "pendencias",
+  "owner": {
+    "name": "Lucas Mucida"
+  },
+  "metadata": {
+    "description": "pendencias: a Claude Code mod."
+  },
+  "plugins": [
+    {
+      "name": "pendencias",
+      "source": "./",
+      "description": "A pane listing, per project, the chats that ended waiting on you (asking for an OK, a test or a decision), with how long ago and whether their cache is still warm; dismiss each one."
+    }
+  ]
+}

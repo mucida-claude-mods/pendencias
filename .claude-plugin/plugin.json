@@ -1,0 +1,17 @@
+{
+  "name": "pendencias",
+  "version": "0.2.0",
+  "description": "A pane listing, per project, the chats that ended waiting on you (asking for an OK, a test or a decision), with how long ago and whether their cache is still warm; dismiss each one.",
+  "author": {
+    "name": "Lucas Mucida",
+    "url": "https://github.com/mucida-claude-mods"
+  },
+  "repository": "https://github.com/mucida-claude-mods/pendencias",
+  "license": "MIT",
+  "keywords": [
+    "pane",
+    "sessions",
+    "waiting"
+  ],
+  "types": "./types/index.d.ts"
+}
